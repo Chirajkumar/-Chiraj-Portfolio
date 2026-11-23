@@ -3,13 +3,6 @@ import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 
 const projects = [
   {
-    title: "Personal Portfolio Website",
-    description:
-      "A responsive portfolio showcasing my projects, technical skills, experience, certifications, and education.",
-    technologies: ["React.js", "JavaScript", "HTML", "CSS", "Bootstrap"],
-    liveDemo: "https://chirajkumar.github.io/-Chiraj-Portfolio/",
-  },
-  {
     title: "Temple Billing Multi-Counter System",
     description:
       "Developed a web-based temple billing application for managing multiple billing counters and temple services.",

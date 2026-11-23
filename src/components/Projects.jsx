@@ -7,7 +7,7 @@ const projects = [
     description:
       "A responsive portfolio showcasing my projects, technical skills, experience, certifications, and education.",
     technologies: ["React.js", "JavaScript", "HTML", "CSS", "Bootstrap"],
-    liveDemo: "https://chirajkumar.github.io/Portfolio_website/",
+    liveDemo: "https://chirajkumar.github.io/-Chiraj-Portfolio/",
   },
   {
     title: "Temple Billing Multi-Counter System",

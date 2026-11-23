@@ -1,4 +1,4 @@
-# Chiraj Kumar — Portfolio
+# Chiraj Kumar — Portfolio https://chirajkumar.github.io/-Chiraj-Portfolio/
 
 <div align="center">
 
@@ -34,7 +34,7 @@ A responsive personal portfolio for an MCA graduate and aspiring software engine
 | Temple Billing Multi-Counter System | React, Node.js, Express.js, MongoDB, JWT | [GitHub](https://github.com/Chirajkumar/Temple-Billing-Multi-Counter) |
 | Decentralized Biometric Voting System | Python, OpenCV, Blockchain, Supabase | [GitHub](https://github.com/Chirajkumar/Online-Voting-System) |
 | Karthik Sales Ecommerce | PHP, MySQL, HTML, CSS, JavaScript | [GitHub](https://github.com/Chirajkumar/Karthik-Agarbatti-Sales-website) |
-| Personal Portfolio Website | React, Vite, Tailwind CSS | [Live](https://chirajkumar.github.io/Portfolio_website/) |
+| Personal Portfolio Website | React, Vite, Tailwind CSS | [Live](https://chirajkumar.github.io/-Chiraj-Portfolio/) |
 
 ## Getting Started
 
